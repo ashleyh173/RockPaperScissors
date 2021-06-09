@@ -10,7 +10,7 @@ and Scissors beats Paper
 -How to Play-
 The game is simple! Type "R" for Rock, "P" for Paper, or "S" for Scissors. Must be capital! 
 The computer will then randomly choose between Rock Paper Scissors and see who wins!
-Whoever wins the round will recieve a point. In a tie, neither party will recieve a point.
+Whoever wins the round will receive a point. In a tie, neither party will receive a point.
 When you are done playing simply type "X" and the game will end. Must be capital!
 
 -Special Features-
