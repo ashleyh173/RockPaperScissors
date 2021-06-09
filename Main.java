@@ -6,7 +6,7 @@ public class Main
   public static void main(String[] args)
   {
     //intro text
-    System.out.println("Don't you miss playing your favorite game of Rock Paper Scissors, but can't due to social distancing? Look no further and play against the computer! :)\n");
+    System.out.println("Don't you miss playing your favorite game of Rock Paper Scissors, \nbut can't play due to social distancing?\nLook no further and play against the computer! :)\n");
 
     Scanner scan = new Scanner(System.in);
     boolean keepPlaying = true;
